@@ -1,1 +1,2 @@
 "content added to this File1" 
+"This is added from master"
